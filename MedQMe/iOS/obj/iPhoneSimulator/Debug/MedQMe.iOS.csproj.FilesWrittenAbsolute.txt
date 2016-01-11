@@ -1,0 +1,16 @@
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/bin/iPhoneSimulator/Debug/MedQMe.iOS.exe.mdb
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/bin/iPhoneSimulator/Debug/MedQMe.iOS.exe
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/obj/iPhoneSimulator/Debug/MedQMe.iOS.exe
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/obj/iPhoneSimulator/Debug/MedQMe.iOS.exe.mdb
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/bin/iPhoneSimulator/Debug/Xamarin.Insights.dll
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/bin/iPhoneSimulator/Debug/PLCrashReporterUnifiedBinding.dll
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/bin/iPhoneSimulator/Debug/MedQMe.dll
+/Users/darcijuniosoaresrodrigues/Projects/MedQMe/iOS/bin/iPhoneSimulator/Debug/MedQMe.dll.mdb
